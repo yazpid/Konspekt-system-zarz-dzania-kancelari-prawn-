@@ -1,0 +1,22 @@
+Konspekt – system zarządzania kancelarią prawną 
+Na początek przesyłam elementy, które musiałaby się znaleźć w systemie, aby mógł on dorównać obecnym rozwiązaniom.
+C.H. Beck TemiTime – zrobiłem zrzuty ekranu – https://1drv.ms/f/s!Al28Bc6q41NLib0A4FQHW1hrsUx3iA 
+Wolters Kluwer Kleos – są dostępne materiały wideo, które dokładnie przedstawiają funkcje programu - https://www.youtube.com/watch?v=pE2PACPvChw&index=22&list=PLPGfNuoc-sqZJNYZnMBW8XC9Y8pfJgi08 
+Dodatkowe funkcjonalności:
+- ułatwienie wpisywania czynności – pewne schematyczne czynności mogłyby się uzupełniać same, system musiałby jednak rozpoznawać, że np. wprowadzamy „przygotowanie sprzeciwu od rejestracji znaku towarowego” i zasugerować jakie czynności powinniśmy przedsięwziąć i ile powinny nam one zająć. Mógłby też podpowiadać wzorcowe dokumenty, wcześniej już przygotowane w podobnych sprawach. Można pomyśleć o dodawaniu wszystkich osób uczestniczących w postępowaniu (np. pozwany, powód, pełnomocnik pozwanego, pełnomocnik powoda, świadkowie, biegli sądowi, prokurator, oskarżyciel posiłkowy etc.), wskazywanie numeru segregatora i gdzie się ona znajduje (dane drukowane);
+- ułatwienie dodawania dokumentów do sprawy – dodawanie skanowanych dokumentów, szybkie lub quasi-automatyczne tagowanie ich, tłumaczenie ich na język angielski i ewentualnie w drugą stronę przy wgrywaniu dokumentów po angielsku tłumaczenie ich na język polski + obecność OCR-a, który by PDF-y przygotowywał do formy edytowalnej
+- edytor dokumentów – wbudowany w Worda i połączony z systemem. Pozwalałby od razu wypełniać pola aktualnymi danymi – dane organów, dane klienta, pełnomocników, stron przeciwnych. Dane mogłyby być zasysane z własnej bazy, jak i z oficjalnych repozytoriów (np. z CEIDG, KRS). Dodatkowo automatyczne sprawdzanie czy nie ma błędów w danych (albo ostrzeżenia w przypadku wątpliwości – np. brak cyfry w PESEL-u/NIP-ie). Podstawą musiałoby być coś takiego: https://www.youtube.com/watch?v=vTuuHxJW1es&list=PLPGfNuoc-sqa2jaD8hnaKz1QzF3v3Oe9o 
+- weryfikowanie czy wpisany czas realizowania zadania nie jest zbyt długi w stosunku do standardowych czasów (np. w przypadku pisania prostego uzasadnienia sprzeciwu czas powinien wynieść około 8h, albo jeżeli mamy jakiś ryczałt dla danej sprawy lub klienta to system mógłby pokazywać ile w danym miesiącu już zostało zrealizowane z tego ryczałtu). Pomoc przy ustalaniu na ile szacować ile czasu zajmie określone zadanie (i podanie informacji klientowi)
+- system prezentacji informacji dla klienta – podjęte czynności, przygotowane pisma, faktury, raport miesięczny lub dłuższy; wskazywanie czynności, dokumentów itd. Które klient może zobaczyć. Podzielenie czasu realizowania zadania na faktycznie ile czasu nam zajmują określone czynności i ile podajemy ostatecznie klientowi
+- wymiana dokumentów – bezpieczny system wymiany dokumentów między prawnikami a klientami, przesyłanie szyfrowane plików, dostęp do komputerów przez klientów, możliwość pracy online (bez możliwości pobierania na dysk, bądź sposób na bezpieczne pobieranie dokumentów wrażliwych); 
+- wbudowane szablony umów / podstawowych dokumentów – rozbudowana wersja GOFIN dokumenty itp., może bardziej zautomatyzowana
+- wsparcie dla pracy grupowej – przygotowanie dokumentów wspólne, system rewizji dokumentów, możliwość odtworzenia poprzednich wersji, system komentarzy – możliwe oparcie o Microsoft Word lub inny edytor
+- zaawansowany system raportów – bardzo zaawansowany pozwalający właścicielowi kancelarii zapoznać się ze szczegółową analityką, wykresami między kolejnymi miesiącami i innymi zmiennymi (np. czy liczba klientów rośnie czy maleje, czy wraz z tymi zmianami rosną zasoby finansowe kancelarii czy nie, jakie są prognozy finansowe etc.)
+- możliwość opłacania online faktur
+-  komunikator z klientami z pozostałymi osobami w zespole
+- dostęp do aktualnych aktów prawnych w tym tłumaczeń aktów prawnych na inne języki
+- wewnętrzna chmura na dane – możliwe połączenie z inną usługą, np. OneDrive, kwestia zapewnienia maksymalnie wysokiego bezpieczeństwa przetwarzanych danych
+- wsparcie dla aplikacji mobilnych
+- kalendarz z systemem przypominania o spotkaniu zarówno dla prawników, klientów, jak i pozostałych osób
+- wewnętrzna biblioteka książek cyfrowych – ciekawy pomysł realizowany przez Wolters Kluwer - https://www.youtube.com/watch?v=Ec4Tv6nMhIM&index=1&list=PLPGfNuoc-sqbAh7VkfNEbN8N2AMd8Qmbc możliwość dodania książek zabezpieczonych DRM, które mogą wypożyczać pracownicy
+
